@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About Us
+layout: page title: About Us
 ---
 
 We are a team based in the [School of Computing, National University of Singapore](http://www.comp.nus.edu.sg).
@@ -15,11 +14,11 @@ We are a team based in the [School of Computing, National University of Singapor
 
 * Role: Developer
 * Responsibilities:
-  * Position and interview modelling
-  * List commands (`list_p` and `list_i`)
-  * Refactoring GUI components
-  * Formatting for UG and DG
-  * Reviewing PRs
+    * Position and interview modelling
+    * List commands (`list_p` and `list_i`)
+    * Refactoring GUI components
+    * Formatting for UG and DG
+    * Reviewing PRs
 
 ### Chua Sue-Ann
 
@@ -40,11 +39,11 @@ We are a team based in the [School of Computing, National University of Singapor
 
 * Role: Developer
 * Responsibilities:
-  * Remark candidate command (`remark_c`)
-  * Add position command (`add_p`)
-  * Delete interview command (`delete_i`)
-  * 'Unassign' command (`unassign`)
-  * Reviewing PRs
+    * Remark candidate command (`remark_c`)
+    * Add position command (`add_p`)
+    * Delete interview command (`delete_i`)
+    * 'Unassign' command (`unassign`)
+    * Reviewing PRs
 
 ### Liu Wanyu
 
@@ -54,11 +53,11 @@ We are a team based in the [School of Computing, National University of Singapor
 
 * Role: Developer
 * Responsibilities:
-  * Draft Position Model
-  * Changes to Storage Component
-  * Delete position command (`delete_p`)
-  * Add interview command (`add_i`)
-  * Code tests
+    * Draft Position Model
+    * Changes to Storage Component
+    * Delete position command (`delete_p`)
+    * Add interview command (`add_i`)
+    * Code tests
 
 ### Nobel Ang
 
